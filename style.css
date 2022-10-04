@@ -15,7 +15,7 @@ body {
 .title{
   width: 50px;
   height:40px;
-  color: #C5C7B7;
+  color: #f7f8f2;
  
 }
 
@@ -33,7 +33,7 @@ body {
 }
 .change-btn {
   padding: 10px 8px;
-  background-color: black;
+  background-color: #47777a;
   color: white;
   border-radius: 5px;
 }
@@ -93,7 +93,7 @@ body {
 }
 .item-inner a {
   text-decoration: none;
-  background-color: #15ae52;
+  background-color: #47777a;
   padding: 8px 16px;
   border: 1px solid rgb(245, 244, 244);
   color: white;
