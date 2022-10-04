@@ -10,11 +10,11 @@ body {
   align-items: center;
   justify-content: space-between;
   padding: 10px;
-  background: #01baef;
+  background: #607B7D;
 }
 
 .header-active {
-  background: #aa2aca;
+  background: #3a606e;
 }
 /* end header */
 
