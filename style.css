@@ -11,11 +11,13 @@ body {
   justify-content: space-between;
   padding: 10px;
   background: #607B7D;
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
 }
 .title{
-  width: 50px;
-  height:40px;
-  color: #f7f8f2;
+  text-align: center;
+
  
 }
 
@@ -25,6 +27,7 @@ body {
 /* end header */
 
 .dynamic {
+  height:auto:
   padding: 40px 10px;
   display: flex;
   align-items: center;
