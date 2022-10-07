@@ -5,19 +5,19 @@ body {
   box-sizing: border-box;
 }
 /* header */
+
+
 .site-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 10px;
   background: #607B7D;
-  position: fixed;
-  width: 100%;
-  z-index: 1000;
+
 }
 .title{
   text-align: center;
-
+  padding: 1rem;
  
 }
 
@@ -27,7 +27,7 @@ body {
 /* end header */
 
 .dynamic {
-  height:auto:
+  
   padding: 40px 10px;
   display: flex;
   align-items: center;
