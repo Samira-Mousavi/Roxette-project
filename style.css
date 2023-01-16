@@ -130,6 +130,7 @@ body {
   height: 100%;
   border-radius: 100%;
 }
+
 @media screen and (max-width: 992px) {
   .container {
     background-color: #ACC4BE;
